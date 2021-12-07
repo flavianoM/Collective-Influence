@@ -25,3 +25,6 @@ In each line of the adjancency list the first number is the node_ID and the foll
 In output, the program prints at screen the values of (q,G), where q is the fraction of removed nodes and G is the size of the giant component of the graph. 
 Also, the program creates a file "Influencers.txt" with a list of the influencers in the network, ordered by decreasing influence.  
 
+
+For more information, visit https://www.nature.com/articles/nature14604  
+  
