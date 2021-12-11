@@ -1,3 +1,6 @@
+Created in 2016
+Author: Flaviano Morone
+
 # Collective-Influence
 Collective Influence Algorithm to find influencers in complex networks
 
