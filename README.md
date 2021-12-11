@@ -12,7 +12,7 @@ The program requires as input the file containing the network and the value of L
 
 To run the executable use the command:
 
-./CIA <NETWORK_FILENAME> <L>
+./CIA {NETWORK_FILENAME} {L}
 
 *** NOTE ***
   
