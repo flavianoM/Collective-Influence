@@ -1,3 +1,6 @@
+//Created in 2016
+//Author: Flaviano Morone
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
